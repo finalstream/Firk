@@ -18,6 +18,7 @@
             <dependency id="Rx-Main" version="2.2.5" />
             <dependency id="Newtonsoft.Json" version="7.0.1" />
             <dependency id="NLog" version="4.0.1" />
+            <dependency id="FinalstreamCommons " version="0.4.45" />
         </dependencies>
         <tags>AppFramework</tags>
     </metadata>
