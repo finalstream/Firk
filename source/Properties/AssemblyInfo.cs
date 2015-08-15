@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 
-[assembly: AssemblyTitle("Firk")]
+[assembly: AssemblyTitle("Firk Framework")]
 [assembly: AssemblyDescription("Finalstream App Framework")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Finalstream")]
-[assembly: AssemblyProduct("Firk")]
+[assembly: AssemblyProduct("Firk Framework")]
 [assembly: AssemblyCopyright("Copyright ©  2015 Finalstream")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
