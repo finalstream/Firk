@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data.SQLite;
 using System.Linq;
 using Dapper;
-using FinalstreamCommons.Extentions;
+using FinalstreamCommons.Extensions;
 using Newtonsoft.Json;
 using NLog;
 
