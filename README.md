@@ -24,6 +24,12 @@ FirkはWindowsアプリケーション開発をサポートするフレームワ
  * GetFileSizeSQLiteFunction(ファイルサイズ取得)
  * JoinStringSQLiteFunction(string.joinをSQLで実現)
 
-
+##ライブラリ
+Framework : Firk.Core https://github.com/finalstream/Firk.Core  
+Common Library : FinalstreamCommons https://github.com/finalstream/FinalstreamCommons  
+Database : Dapper https://github.com/StackExchange/dapper-dot-net  
+Reactive Extensions : http://rx.codeplex.com/  
+Logging : NLog http://nlog-project.org/  
+Json Library : Json.NET http://www.newtonsoft.com/json  
 
 
