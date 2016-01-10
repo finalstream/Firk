@@ -5,6 +5,7 @@ Firk(フィルク)はWindowsアプリ開発をサポートするフレームワ�
 
 FirkはWindowsアプリケーション開発をサポートするフレームワーク＆ライブラリです。  
 データベースはSQLiteに対応しています。
+データベースを使用しないライトウェイトなコア機能は[Firk.Core](https://github.com/finalstream/Firk.Core)にまとめてあります。
 
 もともと[Movselex](http://www.finalstream.net/movselex/)向けに作成したものですが、
 次世代のLinear Audio Playerにも採用する予定です。  
