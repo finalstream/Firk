@@ -12,7 +12,7 @@ FirkはWindowsアプリケーション開発をサポートするフレームワ
 今後、Finalstreamで開発するアプリケーションのフレームワークとして精錬していく予定です。
 
 各アプリごとにAppClientを継承したClientを作成するところからはじまります。  
-フレームワークとしての使用方法等は近い将来オープンソースとして公開するMovselexのソースを確認していただければと思います。
+フレームワークとしての使用方法等はオープンソースとして公開している動画セレクターアプリの[Movselex](https://github.com/finalstream/Movselex)のソース(MVVM)もしくはエクスプローラランチャーアプリの[ExplorerWindowCleaner](https://github.com/finalstream/ExplorerWindowCleaner)のソース(NotMVVM)を確認していただければと思います。
 
 ##主な機能
 
